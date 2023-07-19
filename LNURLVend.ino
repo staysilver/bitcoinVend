@@ -107,7 +107,7 @@ static const char PAGE_ELEMENTS[] PROGMEM = R"(
       "name": "lnurlvendmotortime",
       "type": "ACInput",
       "label": "Motor time millisecs",
-      "vale": "2500"
+      "value": "2500"
     },
     {
       "name": "lnurlvendprodone",
